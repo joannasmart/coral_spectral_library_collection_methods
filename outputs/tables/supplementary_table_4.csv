@@ -1,0 +1,48 @@
+"category","level","between_site_sam","mean_within_class_sam","ratio_between_to_within","between_exceeds_within"
+"Algae","Coarse",3.13,12.78,0.24,FALSE
+"Bleached Coral","Coarse",8.65,8.24,1.05,TRUE
+"Live Coral","Coarse",11.41,14.38,0.79,FALSE
+"Soft Substrate","Coarse",3.35,9,0.37,FALSE
+"Carbonate Sand","Intermediate",3.35,9,0.37,FALSE
+"Crustose coralline algae","Intermediate",14.47,6.36,2.27,TRUE
+"Hexacorallia/Scleractinia","Intermediate",12.17,13.93,0.87,FALSE
+"Macroalgae","Intermediate",4.87,15.53,0.31,FALSE
+"Microphytobenthos","Intermediate",10.68,10.74,1,FALSE
+"Octocoral","Intermediate",13.02,16.35,0.8,FALSE
+"Turf Algae","Intermediate",4.3,9.03,0.48,FALSE
+"Blue Hard Coral","Fine",14.79,12.79,1.16,TRUE
+"Brown Macroalgae","Fine",5.83,9.27,0.63,FALSE
+"Brown Octocoral","Fine",16.02,18.22,0.88,FALSE
+"Brown/Yellow Hard Coral","Fine",10.85,12.85,0.84,FALSE
+"Carbonate Sand","Fine",3.35,9,0.37,FALSE
+"Crustose Coralline Algae","Fine",14.47,6.36,2.27,TRUE
+"Fluorescing Hard Coral","Fine",32.42,2.78,11.68,TRUE
+"Green Hard Coral","Fine",14.34,9.83,1.46,TRUE
+"Green Macroalgae","Fine",9.52,16.71,0.57,FALSE
+"Microphytobenthos","Fine",10.68,10.74,1,FALSE
+"Red/Pink Hard Coral","Fine",10.41,6.32,1.65,TRUE
+"Turf Algae","Fine",4.3,9.03,0.48,FALSE
+"White Hard Coral","Fine",9.13,8.46,1.08,TRUE
+"Branching Hard Coral - Blue","Very fine",9.46,8.04,1.18,TRUE
+"Branching Hard Coral - Brown/Yellow","Very fine",12.23,12.62,0.97,FALSE
+"Brown Octocoral","Very fine",16.02,18.22,0.88,FALSE
+"Carbonate Sand","Very fine",3.35,9,0.37,FALSE
+"Corymbose Hard Coral - Blue","Very fine",20.3,6.66,3.05,TRUE
+"Corymbose Hard Coral - Brown/Yellow","Very fine",7.29,10.43,0.7,FALSE
+"Corymbose Hard Coral - Green","Very fine",8.92,7.12,1.25,TRUE
+"Corymbose Hard Coral - White","Very fine",6.71,7.94,0.85,FALSE
+"Crustose Coralline Algae","Very fine",14.47,6.36,2.27,TRUE
+"Encrusting Hard Coral - Blue","Very fine",22.45,13.66,1.64,TRUE
+"Encrusting Hard Coral - Brown/Yellow","Very fine",14.85,10.12,1.47,TRUE
+"Fluorescing Hard Coral","Very fine",32.42,2.78,11.68,TRUE
+"Massive Hard Coral - Blue","Very fine",15.32,11.29,1.36,TRUE
+"Massive Hard Coral - Brown/Yellow","Very fine",13.97,13.7,1.02,TRUE
+"Massive Hard Coral - Green","Very fine",22.03,2.7,8.14,TRUE
+"Microphytobenthos","Very fine",10.68,10.74,1,FALSE
+"Mushroom/Free Living Hard Coral - Brown/Yellow","Very fine",14.05,4.99,2.81,TRUE
+"Padina","Very fine",7.21,3.68,1.96,TRUE
+"Tabular/Plating Hard Coral - Blue","Very fine",10.67,5.57,1.92,TRUE
+"Tabular/Plating Hard Coral - Brown/Yellow","Very fine",14.63,7.39,1.98,TRUE
+"Tabular/Plating Hard Coral - Green","Very fine",20.44,5.65,3.62,TRUE
+"Tabular/Plating Hard Coral - Red/Pink","Very fine",14.52,2.52,5.76,TRUE
+"Turf Algae","Very fine",4.3,9.03,0.48,FALSE

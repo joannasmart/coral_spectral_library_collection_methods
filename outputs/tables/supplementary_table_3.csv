@@ -1,0 +1,19 @@
+"benthic_category","mean_within_class_sam","mean_between_configuration_sam","ratio_between_to_within","between_exceeds_within"
+"Branching Hard Coral - Blue",12.91,27.32,2.12,TRUE
+"Branching Hard Coral - Brown/Yellow",7.88,17.01,2.16,TRUE
+"Brown Octocoral",9.76,13.53,1.39,TRUE
+"Carbonate Sand",10.62,9.2,0.87,FALSE
+"Clean Dense Strap-Like Seagrass - Oceana serrulata",6.45,11.32,1.75,TRUE
+"Clean Dense Strap-Like Seagrass - Zostera muelleri",6.78,11.02,1.63,TRUE
+"Encrusting Hard Coral - Brown/Yellow",12.63,21.49,1.7,TRUE
+"Fouled Dense Strap-Like Seagrass - Oceana serrulata",5.67,11.4,2.01,TRUE
+"Fouled Dense Strap-Like Seagrass - Zostera muelleri",5.23,13.7,2.62,TRUE
+"Green Octocoral",7.53,6.38,0.85,FALSE
+"Lyngbya majuscula",6.61,12.58,1.91,TRUE
+"Massive Hard Coral - Blue",7.21,7.07,0.98,FALSE
+"Massive Hard Coral - Brown/Yellow",16.32,13.41,0.82,FALSE
+"Microphytobenthos",4.04,8.09,2,TRUE
+"Mixed Macroalgae",16.92,24.96,1.48,TRUE
+"Mushroom/Free Living Hard Coral - Brown/Yellow",6.17,7.42,1.2,TRUE
+"Non-Carbonate Sand",2.28,7.02,3.08,TRUE
+"Turf Algae",10.62,5.71,0.54,FALSE

@@ -1,0 +1,28 @@
+"target","location","sampling_area","depth_m","very_fine","fine","intermediate","coarse","artificial_light_cable","ambient_light_cable","ambient_light_unit_optics","artificial_light_unit_optics","measurements_excluded"
+"20241105_01","Heron Reef","Libbys lair",7,"Massive Hard Coral - Brown/Yellow","Brown/Yellow Hard Coral","Hexacorallia/Scleractinia","Live Coral",5,6,8,7,0
+"20241105_02","Heron Reef","Libbys lair",7,"Carbonate Sand","Carbonate Sand","Carbonate Sand","Soft Substrate",6,5,8,9,0
+"20241105_03","Heron Reef","Libbys lair",7,"Turf Algae","Turf Algae","Turf Algae","Algae",7,7,7,5,0
+"20241105_04","Heron Reef","Libbys lair",7,"Branching Hard Coral - Brown/Yellow","Brown/Yellow Hard Coral","Hexacorallia/Scleractinia","Live Coral",3,7,8,7,18
+"20241105_05","Heron Reef","coral grotto",7,"Mixed Macroalgae","Mixed Macroalgae","Macroalgae","Algae",7,8,9,9,0
+"20241105_06","Heron Reef","coral grotto",7,"Branching Hard Coral - Blue","Blue Hard Coral","Hexacorallia/Scleractinia","Live Coral",9,12,9,9,0
+"20241105_07","Heron Reef","coral grotto",7,"Encrusting Hard Coral - Brown/Yellow","Brown/Yellow Hard Coral","Hexacorallia/Scleractinia","Live Coral",10,7,9,9,0
+"20241105_08","Heron Reef","coral grotto",7,"Massive Hard Coral - Brown/Yellow","Brown/Yellow Hard Coral","Hexacorallia/Scleractinia","Live Coral",10,8,10,11,0
+"20241106_01","Heron Reef","Coral gardens",7,"Carbonate Sand","Carbonate Sand","Carbonate Sand","Soft Substrate",8,7,9,8,0
+"20241106_02","Heron Reef","Coral gardens",7,"Green Octocoral","Green Octocoral","Octocoral","Live Coral",8,7,10,7,0
+"20241106_03","Heron Reef","Coral gardens",7,"Turf Algae","Turf Algae","Turf Algae","Algae",8,7,10,10,0
+"20241106_04","Heron Reef","Coral gardens",7,"Mushroom/Free Living Hard Coral - Brown/Yellow","Brown/Yellow Hard Coral","Hexacorallia/Scleractinia","Live Coral",9,8,8,8,0
+"20241106_05","Heron Reef","Coral gardens",7,"Brown Octocoral","Brown Octocoral","Octocoral","Live Coral",9,8,10,8,0
+"20241106_06","Heron Reef","Coral gardens",7,"Microphytobenthos","Microphytobenthos","Microphytobenthos","Algae",8,9,8,5,0
+"20241106_07","Heron Reef","Heron Bommie",7,"Massive Hard Coral - Blue","Blue Hard Coral","Hexacorallia/Scleractinia","Live Coral",8,9,8,6,0
+"20241106_08","Heron Reef","Heron Bommie",7,"Massive Hard Coral - Brown/Yellow","Brown/Yellow Hard Coral","Hexacorallia/Scleractinia","Live Coral",8,9,11,9,0
+"20241106_09","Heron Reef","Heron Bommie",7,"Branching Hard Coral - Brown/Yellow","Brown/Yellow Hard Coral","Hexacorallia/Scleractinia","Live Coral",11,8,9,7,0
+"20241106_10","Heron Reef","Heron Bommie",7,"Turf Algae","Turf Algae","Turf Algae","Algae",9,9,8,8,0
+"20241106_11","Heron Reef","Heron Bommie",7,"Carbonate Sand","Carbonate Sand","Carbonate Sand","Soft Substrate",8,8,7,8,0
+"20241106_12","Heron Reef","Heron Bommie",7,"Turf Algae","Turf Algae","Turf Algae","Algae",9,6,9,7,0
+"20241106_13","Heron Reef","Heron Bommie",7,"Massive Hard Coral - Brown/Yellow","Brown/Yellow Hard Coral","Hexacorallia/Scleractinia","Live Coral",6,8,6,6,0
+"20241205_01","Eastern Banks","Wanga-Wallen Bank",2,"Non-Carbonate Sand","Non-Carbonate Sand","Non Carbonate Sand","Soft Substrate",9,8,8,5,0
+"20241205_02","Eastern Banks","Wanga-Wallen Bank",2,"Clean Dense Strap-Like Seagrass - Oceana serrulata","Clean Dense Seagrass","Clean Dense Seagrass","Dense Seagrass",7,10,8,9,0
+"20241205_03","Eastern Banks","Wanga-Wallen Bank",2,"Fouled Dense Strap-Like Seagrass - Oceana serrulata","Fouled Dense Seagrass","Fouled Dense Seagrass","Dense Seagrass",10,8,7,8,0
+"20241205_04","Eastern Banks","Wanga-Wallen Bank",2,"Clean Dense Strap-Like Seagrass - Zostera muelleri","Clean Dense Seagrass","Clean Dense Seagrass","Dense Seagrass",7,7,8,8,0
+"20241205_05","Eastern Banks","Wanga-Wallen Bank",2,"Fouled Dense Strap-Like Seagrass - Zostera muelleri","Fouled Dense Seagrass","Fouled Dense Seagrass","Dense Seagrass",8,9,8,8,0
+"20241205_06","Eastern Banks","Wanga-Wallen Bank",2,"Lyngbya majuscula","Lyngbya majuscula","Cyanobacteria","Cyanobacteria",6,7,8,9,0
